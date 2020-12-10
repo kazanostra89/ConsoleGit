@@ -6,14 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleGit
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-
-
-
-            Console.ReadKey();
-        }
     }
 }
