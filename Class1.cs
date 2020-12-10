@@ -8,5 +8,6 @@ namespace ConsoleGit
 {
     class Class1
     {
+	public int Number { get; set; }
     }
 }
